@@ -15,7 +15,7 @@ class Car
     } 
 }
 
-class classObject
+public class classObject
 {
     public static void main(String[] args) {
         Car myCar = new Car("Black", "McLaren");
