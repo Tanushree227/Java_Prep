@@ -1,5 +1,6 @@
 class Car
 {
+    @SuppressWarnings("unused")
     String color;
     String model;
     
